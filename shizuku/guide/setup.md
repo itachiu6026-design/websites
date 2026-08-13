@@ -1,3 +1,5 @@
+gaming
+with phone 
 # User manual
 
 [[toc]]
